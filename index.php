@@ -1,4 +1,4 @@
 <?php
 
-echo "Testing Deployment hook.";
+echo "Testing Deployment hook...";
 ?>
